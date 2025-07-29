@@ -1,1 +1,1 @@
-The muon detector, also known as the cosmic watch, was the main part of our project. This is all of teh digital material we used to build it and code it. Some of the links to where we found this creation is on the main ranch's "read me". 
+The muon detector, also known as the cosmic watch, was the main part of our project. This is all of the digital material we used to build it and code it. Some of the links to where we found this creation is on the main ranch's "read me". 
